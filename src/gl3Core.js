@@ -23,3 +23,4 @@ function radianPreset(){
     }
 }
 
+module.exports = gl3;
