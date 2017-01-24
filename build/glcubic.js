@@ -23,7 +23,7 @@ function radianPreset(){
     }
 }
 
-
+module.exports = gl3;
 
 gl3.ready = false;
 gl3.canvas = null;
